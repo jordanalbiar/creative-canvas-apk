@@ -6,7 +6,7 @@
 
 Your phone is the control room. Any site that needs a camera source, Discord, Zoom, a video call in your browser, just sees Creative Canvas as a normal camera.
 
-📖 **Full illustrated guide:** https://jordanalbiar.github.io/creative-canvas-apk
+📖 **Full illustrated guide:** https://jordanalbiar.github.io/creative-canvas-android
 
 ## What it is
 
@@ -80,7 +80,7 @@ In short: **link in → Webviewer loads it → it sits on the stage → Discord 
 
 📥 **[Download creative-canvas-v3.2.apk](creative-canvas-v3.2.apk)**
 
-On the [landing page](https://jordanalbiar.github.io/creative-canvas-apk) the download button only appears after you accept the Terms of Use. The short version:
+On the [landing page](https://jordanalbiar.github.io/creative-canvas-android) the download button only appears after you accept the Terms of Use. The short version:
 
 1. **What you're getting**. Creative Canvas v3.2 is an Android app (an APK file) that puts your camera, websites, videos and chat on one stage and sends it to Discord as one virtual camera.
 2. **It's free, and it's "as is"**. Provided as it is, with no promise it will work perfectly on every phone.
