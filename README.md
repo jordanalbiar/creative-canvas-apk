@@ -1,5 +1,8 @@
 ![Creative Canvas, your phone runs the studio, any site sees it as a camera](cover.webp)
 
+![The chalkboard header with the chalk logo and the dog](docs/readme-header.png)
+*The chalkboard header, with the chalk logo and the dog.*
+
 # Creative Canvas for Android
 
 **A tiny TV studio for Discord.** Put your **camera**, a **website**, a **video** and **chat words** on one stage. Creative Canvas sends the whole stage to Discord as **one camera**.
@@ -15,6 +18,9 @@ Your phone is the control room. Any site that needs a camera source, Discord, Zo
 - The app hands the whole stage to Discord as **one pretend camera**. Your friends just see a normal camera in the call. Showtime.
 
 ## The whole app in one picture. What the numbers mean
+
+![The dashboard docked to the canvas, with numbered callouts 1 to 6](docs/readme-app-drawing.png)
+*The whole app in one picture, the remote on the left, the stage on the right.*
 
 **1 · The remote control** (left, top). This is the **Dashboard**. It sticks to the left side of the stage. Move the stage, the remote comes too. Make the stage bigger or smaller, the remote shrinks or grows to fit.
 *Say it like this: "The remote is stuck to the stage."*
@@ -34,6 +40,9 @@ Your phone is the control room. Any site that needs a camera source, Discord, Zo
 **6 · Add more things** (right, bottom row). Tap the big **+** to add something new. The tiny **MEM** word tells you how much memory the app is using.
 *Say it like this: "Tap plus to add more."*
 
+![The six numbered cards that explain what each number means](docs/readme-app-numbers.png)
+*What the numbers mean, one card for each number.*
+
 ## The 6 tabs
 
 | Tab | What it does |
@@ -45,9 +54,15 @@ Your phone is the control room. Any site that needs a camera source, Discord, Zo
 | ⚙ **Settings** | Change the thing you picked. |
 | 🎨 **Appearance** | Change how it **looks**, like the dark Night colours. |
 
+![The Guide bar with its six window buttons](docs/readme-guide.png)
+*The Guide bar, six buttons that open the six guide windows.*
+
 Two more things live on the stage, too: **chat words**, your friends' messages drawn on top, in big letters, and **your camera**, front or back, in a box just like everything else.
 
 ## How the webviewer works. How any website loads
+
+![The Webviewer window with its six steps](docs/readme-webviewer.png)
+*The Webviewer window, how any website loads in six steps.*
 
 The **Webviewer** is a tiny web browser that lives **inside** Creative Canvas. Give it a link, **any link**, and it opens that website in its own little window, right on the stage.
 
@@ -75,6 +90,9 @@ In short: **link in → Webviewer loads it → it sits on the stage → Discord 
 - **It remembers your work**. Where things sit, how big they are, the zoom, the dock, **all saved**. For a video file, it saves only the file's **name**, not the video itself.
 
 ## Download
+
+![The Download window with the Install button](docs/readme-download.png)
+*The Download window, tap Install to get the app.*
 
 **Creative Canvas v3.2 · Android APK · 1.1 MB**
 
